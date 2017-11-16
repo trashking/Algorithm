@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" uploadOnCheckin="8b1524d1-d47b-46da-adeb-bb22bd3e25c6">
     <serverData>
       <paths name="JATEST_WAS">
         <serverdata>
@@ -122,5 +122,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="JATEST_WEB" />
   </component>
 </project>
