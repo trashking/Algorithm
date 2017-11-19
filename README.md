@@ -11,7 +11,7 @@
 # 연습하기
 * N 찍기: https://www.acmicpc.net/problem/2741 *17.11.17*
 * 기찍 N: https://www.acmicpc.net/problem/2742 *17.11.17*
-* 구구단: https://www.acmicpc.net/problem/2739
+* 구구단: https://www.acmicpc.net/problem/2739 *17.11.19*
 * 2007년: https://www.acmicpc.net/problem/1924
 * SUM: https://www.acmicpc.net/problem/8393
 * 최소, 최대: https://www.acmicpc.net/problem/10818
