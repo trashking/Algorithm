@@ -14,7 +14,7 @@
 * 구구단 [BOJ_2739](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2739/): https://www.acmicpc.net/problem/2739 *17.11.19*
 * 2007 [BOJ_1924](https://github.com/trashking/Algorithm/tree/master/src/BOJ_1924/): https://www.acmicpc.net/problem/1924 *17.11.20*
 * SUM [BOJ_8393](https://github.com/trashking/Algorithm/tree/master/src/BOJ_8393/): https://www.acmicpc.net/problem/8393 *17.11.20*
-* 최소, 최대: https://www.acmicpc.net/problem/10818
+* 최소, 최대 [BOJ_10818](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10818/):  https://www.acmicpc.net/problem/10818 *17.11.20*
 
 # 별찍기 연습하기
 * 별찍기 1: https://www.acmicpc.net/problem/2438
@@ -28,5 +28,3 @@
 * 별찍기 12: https://www.acmicpc.net/problem/2522
 * 별찍기 16: https://www.acmicpc.net/problem/10991
 * 별찍기 17: https://www.acmicpc.net/problem/10992
-
-???
