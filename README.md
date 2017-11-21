@@ -17,7 +17,7 @@
 * 최소, 최대 [BOJ_10818](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10818/):  https://www.acmicpc.net/problem/10818 *17.11.20*
 
 # 별찍기 연습하기
-* 별찍기 1: https://www.acmicpc.net/problem/2438
+* 별찍기 1 [BOJ_2438](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2438/): https://www.acmicpc.net/problem/2438 *17.11.21*
 * 별찍기 2: https://www.acmicpc.net/problem/2439
 * 별찍기 3: https://www.acmicpc.net/problem/2440
 * 별찍기 4: https://www.acmicpc.net/problem/2441
