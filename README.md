@@ -24,7 +24,7 @@
 * 별찍기 5 [BOJ_2442](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2442/): https://www.acmicpc.net/problem/2442 *17.11.23*
 * 별찍기 7 [BOJ_2444](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2444/): https://www.acmicpc.net/problem/2444 *17.11.24*
 * 별찍기 8 [BOJ_2445](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2445/): https://www.acmicpc.net/problem/2445 *17.11.25*
-* 별찍기 9: https://www.acmicpc.net/problem/2446
+* 별찍기 9 [BOJ_2446](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2446/): https://www.acmicpc.net/problem/2446 *17.11.26*
 * 별찍기 12: https://www.acmicpc.net/problem/2522
 * 별찍기 16: https://www.acmicpc.net/problem/10991
 * 별찍기 17: https://www.acmicpc.net/problem/10992
