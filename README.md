@@ -34,4 +34,4 @@
 * 스택 [BOJ_10828](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10828/): https://www.acmicpc.net/problem/10828
 
 # 괄호
-* 괄호 [BOJ_9012](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10828/): https://www.acmicpc.net/problem/9012
+* 괄호 [BOJ_9012](https://github.com/trashking/Algorithm/tree/master/src/BOJ_9012/): https://www.acmicpc.net/problem/9012
