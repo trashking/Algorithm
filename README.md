@@ -30,8 +30,8 @@
 * 별찍기 16 [BOJ_10991](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10991/): https://www.acmicpc.net/problem/10991 *17.11.28*
 * 별찍기 17 [BOJ_10992](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10992/): https://www.acmicpc.net/problem/10992 *17.11.28*
 
-# 스택
-* 스택 [BOJ_10828](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10828/): https://www.acmicpc.net/problem/10828
-
-# 괄호
-* 괄호 [BOJ_9012](https://github.com/trashking/Algorithm/tree/master/src/BOJ_9012/): https://www.acmicpc.net/problem/9012
+# 자료구조
+* 스택 [BOJ_10828](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10828/): https://www.acmicpc.net/problem/10828 *17.11.29*
+* 괄호 [BOJ_9012](https://github.com/trashking/Algorithm/tree/master/src/BOJ_9012/): https://www.acmicpc.net/problem/9012 *17.11.30*
+* 쇠막대기 [BOJ_10799](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10799/): https://www.acmicpc.net/problem/10799 *17.12.01*
+* 에디터 [BOJ_1406](https://github.com/trashking/Algorithm/tree/master/src/BOJ_1406/): https://www.acmicpc.net/problem/1406 *17.12.02*
