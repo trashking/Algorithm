@@ -35,3 +35,13 @@
 * 괄호 [BOJ_9012](https://github.com/trashking/Algorithm/tree/master/src/BOJ_9012/): https://www.acmicpc.net/problem/9012 *17.11.30*
 * 쇠막대기 [BOJ_10799](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10799/): https://www.acmicpc.net/problem/10799 *17.12.01*
 * 에디터 [BOJ_1406](https://github.com/trashking/Algorithm/tree/master/src/BOJ_1406/): https://www.acmicpc.net/problem/1406 *17.12.02*
+* 큐 : https://www.acmicpc.net/problem/10845
+* 조세퍼스 문제 : https://www.acmicpc.net/problem/1158
+* 덱 : https://www.acmicpc.net/problem/10866
+* 알파벳 개수 : https://www.acmicpc.net/problem/10808
+* 알파벳 찾기 : https://www.acmicpc.net/problem/10809
+* 문자열 분석 : https://www.acmicpc.net/problem/10820
+* 단어길재기 : https://www.acmicpc.net/problem/2743
+* ROT13 : https://www.acmicpc.net/problem/11655
+* 네 수 : https://www.acmicpc.net/problem/10824
+* 접미사 배열 : https://www.acmicpc.net/problem/11656
