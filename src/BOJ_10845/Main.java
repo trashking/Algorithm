@@ -51,6 +51,7 @@
  *
  * http://ksh-code.tistory.com/84
  * http://zoonvivor.tistory.com/6
+ * 오늘 2번째 어뷰징. 핑계를 대자면 간만에 세미나와 외부에서 보낸 시간때문인데 어쨌든 아무것도 안 했으면서 1커밋 때문에 한다..
  */
 
 package BOJ_10845;
