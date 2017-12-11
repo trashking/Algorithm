@@ -1,3 +1,5 @@
+# 입/출력
+* 네 수 [BOJ_10824](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10824/): https://www.acmicpc.net/problem/10824 *17.12.11*
 
 # A + B
 * [BOJ_1000](https://github.com/trashking/Algorithm/tree/master/src/BOJ_1000/): https://www.acmicpc.net/problem/1000 *17.11.16*
