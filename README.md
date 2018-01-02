@@ -3,6 +3,17 @@
 * 더하기 3 [BOJ_11023](https://github.com/trashking/Algorithm/tree/master/src/BOJ_11023/): https://www.acmicpc.net/problem/11023 *17.12.13*
 * 더하기 [BOJ_10822](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10822/): https://www.acmicpc.net/problem/10822 *17.12.13*
 
+# Collections
+* 수 정렬하기 [BOJ_2750](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2750/): https://www.acmicpc.net/problem/2750 *17.12.28* 
+* 스택 [BOJ_10828](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10828/): https://www.acmicpc.net/problem/10828 *17.11.29*
+* 숫자카드: https://www.acmicpc.net/problem/10815
+* 회사에 있는 사람: https://www.acmicpc.net/problem/7785
+* 저항: https://www.acmicpc.net/problem/1076
+* 듣보잡: https://www.acmicpc.net/problem/1764
+* 큐: https://www.acmicpc.net/problem/10845
+* 최소 힙: https://www.acmicpc.net/problem/1927
+* 최대 힙: https://www.acmicpc.net/problem/11279
+
 # A + B
 * [BOJ_1000](https://github.com/trashking/Algorithm/tree/master/src/BOJ_1000/): https://www.acmicpc.net/problem/1000 *17.11.16*
 * [BOJ_2558](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2558/): https://www.acmicpc.net/problem/2558 *17.11.16*
@@ -19,7 +30,7 @@
 * 구구단 [BOJ_2739](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2739/): https://www.acmicpc.net/problem/2739 *17.11.19*
 * 2007 [BOJ_1924](https://github.com/trashking/Algorithm/tree/master/src/BOJ_1924/): https://www.acmicpc.net/problem/1924 *17.11.20*
 * SUM [BOJ_8393](https://github.com/trashking/Algorithm/tree/master/src/BOJ_8393/): https://www.acmicpc.net/problem/8393 *17.11.20*
-* 최소, 최대 [BOJ_10818](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10818/):  https://www.acmicpc.net/problem/10818 *17.11.20*
+* 최소, 최대 [BOJ_10818](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10818/): https://www.acmicpc.net/problem/10818 *17.11.20*
 
 # 별찍기 연습하기
 * 별찍기 1 [BOJ_2438](https://github.com/trashking/Algorithm/tree/master/src/BOJ_2438/): https://www.acmicpc.net/problem/2438 *17.11.21*
@@ -39,13 +50,16 @@
 * 괄호 [BOJ_9012](https://github.com/trashking/Algorithm/tree/master/src/BOJ_9012/): https://www.acmicpc.net/problem/9012 *17.11.30*
 * 쇠막대기 [BOJ_10799](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10799/): https://www.acmicpc.net/problem/10799 *17.12.01*
 * 에디터 [BOJ_1406](https://github.com/trashking/Algorithm/tree/master/src/BOJ_1406/): https://www.acmicpc.net/problem/1406 *17.12.02*
-* 큐 : https://www.acmicpc.net/problem/10845
-* 조세퍼스 문제 : https://www.acmicpc.net/problem/1158
-* 덱 : https://www.acmicpc.net/problem/10866
-* 알파벳 개수 : https://www.acmicpc.net/problem/10808
-* 알파벳 찾기 : https://www.acmicpc.net/problem/10809
-* 문자열 분석 : https://www.acmicpc.net/problem/10820
-* 단어길재기 : https://www.acmicpc.net/problem/2743
-* ROT13 : https://www.acmicpc.net/problem/11655
-* 네 수 : https://www.acmicpc.net/problem/10824
-* 접미사 배열 : https://www.acmicpc.net/problem/11656
+* 큐 [BOJ_10845](https://github.com/trashking/Algorithm/tree/master/src/BOJ_10845/): https://www.acmicpc.net/problem/10845 *17.12.11*
+* 조세퍼스 문제: https://www.acmicpc.net/problem/1158
+* 덱: https://www.acmicpc.net/problem/10866
+* 알파벳 개수: https://www.acmicpc.net/problem/10808
+* 알파벳 찾기: https://www.acmicpc.net/problem/10809
+* 문자열 분석: https://www.acmicpc.net/problem/10820
+* 단어길재기: https://www.acmicpc.net/problem/2743
+* ROT13: https://www.acmicpc.net/problem/11655
+* 네 수: https://www.acmicpc.net/problem/10824
+* 접미사 배열: https://www.acmicpc.net/problem/11656
+
+# LeetCode
+* 168. Excel Sheet Column Title
